@@ -1,0 +1,9 @@
+{
+  "name": "super-kahraman-sunucu",
+  "version": "1.0.0",
+  "description": "Şimşek Kahraman çok oyunculu oda sunucusu (iki oyuncu arasında mesaj aktarır)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
